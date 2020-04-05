@@ -50,7 +50,7 @@
             </objects>
             <point key="canvasLocation" x="1935" y="78"/>
         </scene>
-        <!--What2Do-->
+        <!--What2Do: Category-->
         <scene sceneID="SYJ-Pu-ujI">
             <objects>
                 <tableViewController id="8h0-85-2EG" customClass="CategoryViewController" customModule="What2Do" customModuleProvider="target" sceneMemberID="viewController">
@@ -73,7 +73,7 @@
                             <outlet property="delegate" destination="8h0-85-2EG" id="Kf1-m2-LmW"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="What2Do" id="ExG-2M-9IC">
+                    <navigationItem key="navigationItem" title="What2Do: Category" id="ExG-2M-9IC">
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="yJ7-qA-Bv3">
                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
